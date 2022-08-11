@@ -1,4 +1,4 @@
-<img align="center" src="https://www.canva.com/design/DAFJA5HXldk/gdJBjG6GZVy1EuHYvvVbjQ/edit?utm_content=DAFJA5HXldk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="my banner">
+<img align="center" src="https://user-images.githubusercontent.com/68714280/184132017-1e0305ea-333b-41f5-843a-660b59f59141.png" alt="my banner">
 
 <h3 align="center">
 Hello there, I'm Josephine 👋

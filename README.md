@@ -14,10 +14,10 @@ I'm a Software Engineer💻, and a Mathematician. I'm passionate about creating 
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🔭 I'm currently working on 'A Budget App (Vanilla JavaScript)'
+- 🔭 I'm currently working on 'A ToDo List App (Vanilla JavaScript)'
 - 🌱 I’m currently learning JavaScript, Reactjs, and Node.js.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer(Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer(Intern or Junior level).
 - 📫 You can [view my resume](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:faf3c89a-ba5c-36da-9d83-2b43712c464b) and contact me by emailing josephinadebayo@gmail.com.
 
 ## 💼 Technical Skills

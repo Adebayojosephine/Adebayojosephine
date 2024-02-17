@@ -13,17 +13,19 @@ I'm a Software Engineer💻, and a Mathematician. I'm passionate about creating 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 🔭 I'm currently working on 'A ToDo List App (Vanilla JavaScript)'
-- 🌱 I’m currently learning JavaScript, Reactjs, and Node.js.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer(Intern or Junior level).
+- 🔭 I'm currently studying Artificial Intelligence at Nova Scotia Community College
+- 🌱 I’m currently learning Python for Machine Learning, Deep Learning, Data Science, and Data Analysis.
+- 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Data Scientist, Data Analyst, Machine Learning Engineer, AI Developer
 - 📫 You can [view my resume](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:faf3c89a-ba5c-36da-9d83-2b43712c464b) and contact me by emailing josephinadebayo@gmail.com.
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2772%2F2772165.png&tbnid=wVFXA_cXdjEWdM&vet=12ahUKEwijpenoybKEAxXdA2IAHQ4kAToQMygFegQIARBe..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fsql-server_2772165&docid=7sBUv5upIN0ACM&w=512&h=512&q=Sql%20logo%20png&ved=2ahUKEwijpenoybKEAxXdA2IAHQ4kAToQMygFegQIARBe)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+
 
 </br>
 

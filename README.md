@@ -23,7 +23,7 @@ I'm a Software Engineer💻, and a Mathematician. I'm passionate about creating 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2772%2F2772165.png&tbnid=wVFXA_cXdjEWdM&vet=12ahUKEwijpenoybKEAxXdA2IAHQ4kAToQMygFegQIARBe..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fsql-server_2772165&docid=7sBUv5upIN0ACM&w=512&h=512&q=Sql%20logo%20png&ved=2ahUKEwijpenoybKEAxXdA2IAHQ4kAToQMygFegQIARBe)
+![](https://img.shields.io/badge/SQL-003B57)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 
 

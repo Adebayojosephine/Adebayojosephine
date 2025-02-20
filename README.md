@@ -7,13 +7,13 @@ Hello there, I'm Josephine 👋
  [![Linkedin Badge](https://img.shields.io/badge/-josephineadebayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephine-adebayo-25562b1b1)](https://www.linkedin.com/in/josephine-adebayo-25562b1b1) [![Twitter Badge](https://img.shields.io/badge/-@josephinadebay2-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Josephinadebay2?t=VOnREFHviuM3cmM9SRzEeg&s=09)](https://twitter.com/Josephinadebay2?t=VOnREFHviuM3cmM9SRzEeg&s=09)
 
 <h2 align="center">
-I'm a Software Engineer💻, and a Mathematician. I'm passionate about creating solutions, documentation and others.
+I'm a Data Analyst💻, and a Mathematician. I'm passionate about creating solutions, documentation and using data to solve real life problems.
 </h2>
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 🔭 I'm currently studying Artificial Intelligence at Nova Scotia Community College
+- 🔭 I hold a Graduate Certificate in Artificial Intelligence at Nova Scotia Community College and a Bachelors Degree in Mathematics.
 - 🌱 I’m currently learning Python for Machine Learning, Deep Learning, Data Science, and Data Analysis.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Data Scientist, Data Analyst, Machine Learning Engineer, AI Developer
